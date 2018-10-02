@@ -5,5 +5,8 @@ public class Test {
 		// TODO Auto-generated method stub
 float f;
 	}
+	public void add(){
+		
+	}
 
 }
